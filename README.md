@@ -1,5 +1,7 @@
 ---
-description: WORK IN PROGRESS
+description: >-
+  WORK IN PROGRESS | Infrastructure-as-Code Raspberry Pi 4 multi-node
+  micro-Kubernetes Cluster
 ---
 
 # 😎 Intro
