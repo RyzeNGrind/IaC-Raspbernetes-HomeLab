@@ -30,14 +30,22 @@ Other relevant (network) hardware:\
 
 1\. This [discourse link](https://discourse.maas.io/t/build-your-own-bare-metal-cloud-using-a-raspberry-pi-cluster-with-maas/5845) is a fully compiled up to date in detail guide on bootstrapping MaaS with a cluster of Raspberry Pis provided directly courtesy of Canonical (Ubuntu) software engineers and all other MaaS contributors.\
 2\. Ansible role microk8s\
-3\. Ansible role cloudflared
+3\. Ansible role [seaweedfs operator](https://github.com/seaweedfs/seaweedfs-operator#installation)\
+&#x20;   \- install [cert manager helm](https://cert-manager.io/docs/installation/helm/) to install seaweedfs operator\
+3\. Ansible role cloudflared\
+4\. Ansible role gitlab\
+5\. Ansible role gitpod\
+
 
 ### Next Steps | TODO
 
 \
-Install maas and configure \
+Install MaaS and configure \
 Use MaaS to provision and deploy RPI cluster\
 [https://github.com/papanito/ansible-role-cloudflared](https://github.com/papanito/ansible-role-cloudflared)\
 [https://github.com/IanTeda/ansible-microk8s](https://github.com/IanTeda/ansible-microk8s)\
+[https://github.com/geerlingguy/ansible-role-gitlab](https://github.com/geerlingguy/ansible-role-gitlab)\
+[https://github.com/gitpod-io/gitpod/tree/main/install/installer](https://github.com/gitpod-io/gitpod/tree/main/install/installer)\
+[https://developers.cloudflare.com/cloudflare-one/tutorials/many-cfd-one-tunnel/](https://developers.cloudflare.com/cloudflare-one/tutorials/many-cfd-one-tunnel/) -> make into Ansible role\
 Add bash aliases and flux autocomplete\
 \
