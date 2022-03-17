@@ -32,6 +32,7 @@ Other relevant (network) hardware:\
 2\. Ansible role microk8s\
 3\. Ansible role [seaweedfs operator](https://github.com/seaweedfs/seaweedfs-operator#installation)\
 &#x20;   \- install [cert manager helm](https://cert-manager.io/docs/installation/helm/) to install seaweedfs operator\
+&#x20;   \- deploy [seaweedfs config to operator](https://github.com/seaweedfs/seaweedfs-operator#you-need-to-also-deploy-an-configuration-to-get-it-running-see-next-section)\
 3\. Ansible role cloudflared\
 4\. Ansible role gitlab\
 5\. Ansible role gitpod\
