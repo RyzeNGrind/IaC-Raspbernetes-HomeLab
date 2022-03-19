@@ -10,6 +10,8 @@ _Documentation and configuration for my attempt to bootstrap and maintain my hom
 
 ## Hardware
 
+![](<.gitbook/assets/photo\_2022-03-19\_12-32-07 (1).jpg>)
+
 [PiKVM](https://pikvm.org) v2:\
 \- [Raspberry Pi 4 Model B 4GB](https://github.com/pikvm/pikvm#diy-getting-started)\
 &#x20;  \- [AIMOS 8-port HDMI USB-C KVM Switch](https://www.amazon.de/AIMOS-Umschalter-Tastatur-unterst%C3%BCtzen-verbunden/dp/B08FR5K111/)\
