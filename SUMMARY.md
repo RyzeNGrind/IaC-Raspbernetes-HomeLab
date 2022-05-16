@@ -1,3 +1,3 @@
 # Table of contents
 
-* [😎 Intro](README.md)
+* [😎 Raspbernetes HomeLab](README.md)

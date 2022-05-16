@@ -4,7 +4,13 @@ description: >-
   micro-Kubernetes Cluster
 ---
 
-# 😎 Intro
+# 😎 Raspbernetes HomeLab
+
+### _Abstract_
+
+Previously the development, deployment and maintenence of highly available services provided through a traditional web server required&#x20;
+
+__
 
 _Documentation and configuration for my attempt to bootstrap and maintain my home-lab_ [_microk8s_](https://microk8s.io) _cluster with_ [_MaaS_](https://maas.io)_,_ [_Ansible_](https://ansible.com)_,_ [_Juju_](https://jaas.ai)_,_ [_Flux_](https://fluxcd.io)_, and_ [_Cloudflared_](https://developers.cloudflare.com/cloudflare-one/tutorials/ssh/)_. The goal is to have a secure-bv-default globally accessible live dev/production environment and server._
 
